@@ -1,0 +1,1 @@
+./Debug/main.cpp.o ./Debug/UserInterface.cpp.o ./Debug/Strategy.cpp.o ./Debug/Broker.cpp.o   
